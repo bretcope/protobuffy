@@ -1,0 +1,15 @@
+{
+  "name": "protobuffy",
+  "description": "Work in Progress",
+  "version": "0.0.1",
+  "author": "Bret Copeland <bret@atlantisflight.org>",
+  "main": "./lib/ProtoBuffy.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bretcope/protobuffy.git"
+  },
+  "dependencies": {
+    "long": "^2.1.0"
+  },
+  "license": "MIT"
+}
